@@ -31,8 +31,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Github](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [Github](https://github.com/MJEstacio/stats-preview-card-component-main)
+- Live Site URL: [https://mjestacio.github.io/stats-preview-card-component-main/]
 
 ## My process
 
@@ -43,8 +43,4 @@ Users should be able to:
 - SCSS custom properties
 - Flexbox
 
-## Author
 
-- Website - [](https://www.your-site.com)
-- Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/yourusername)
-- Twitter - [@yourusername](https://www.twitter.com/yourusername)
